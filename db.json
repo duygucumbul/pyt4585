@@ -3,7 +3,7 @@
     "personeller" : [
         {
         "Id" : 1,
-        "firstname" : "murat" ,
+        "firstname" : "1.murat" ,
         "lastname" : "vuranok",
         "mail" : "murat.vuranok@bilgeadam.com",
         "phone" : "6795804567" 
